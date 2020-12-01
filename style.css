@@ -1,6 +1,7 @@
 body{
 
     font-family: 'Gruppo', cursive;
+    filter: grayscale(100%);
 }
 
 .jumbotron{
@@ -25,3 +26,4 @@ a:link{
  a:hover{
     color: black;
 }
+
