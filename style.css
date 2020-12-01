@@ -1,0 +1,27 @@
+body{
+
+    font-family: 'Gruppo', cursive;
+}
+
+.jumbotron{
+    text-align: center;
+    font-weight: bolder;
+}
+
+#footer{
+
+    text-align: center;
+    text-decoration: none;
+}
+
+a{
+    color: black;
+}
+
+a:link{
+    text-decoration: none;
+  }
+
+ a:hover{
+    color: black;
+}
